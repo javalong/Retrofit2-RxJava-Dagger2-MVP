@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_b084929ab81fc0ece560a4260848ea0ff74802b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_40e9122cd621660ca14a9a6d4274774404621a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d5e1a9cd66cd120c7ddde12206babe25f62aadfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6acf578b27bde240daa96558da8edb9493bb311d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1ae34e6bfa95fd871694c3334a44a787d24474b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2_c7926aab3ec46e3accfab7b8c970b3c12d111198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffd88761fa67147f35a0aeebae265b0cb92259c1">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/instant-run_8e1b12efbee35ceeedbd50d2d63f5677017a4fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_59478d2b6beea505ca6ac532f1816a635a6ede64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0/da7ba0ee1d30edd955da276cdf01d3d7cb24aedc/dagger-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/dagger-2.0_a78069bd68ae62ef9cf059d18d4368d6dade53a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.0_c0be405a69d060039b33722a851aa3db18ea76e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_c721ade0abf8eb3100038eb606de2e3fc7297929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_b322ca725e0040c92f7618418a2bdc16ae66296d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ee07039798ef75ea66fd612e2209154a91e61f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_b5221334b6cf89f685680841e9b856f9922a67b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0f5aeba3620d32330444b747e62657ed1e4aca17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/javax.inject-1_46cfebf905fad279426aeb419461edf8c65b1222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_af7d3c72c3ef5b18a77e545f93693cfb5869504a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_e0ea23d00cc7173ecd6e1528a92c67a86220228b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_99cd540e4cb1c939cf007e604053acda0ef9d15b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af992c2cb6866c572e8f58f64e0b2b6c31353f73">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ce2bf302968b249baec3cd88fc83880a5c729be1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/okio-1.6.0_d0fc5fd7ceece10fd360dcad62ac65f7b8031d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8ad7c07bf40c532a870ac38abd3ae6cf8c883842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_23dedd9959a66e329600e3320eb5d047ce57a180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_21e2ed253ab9060b55ba9ce88ae83c91b55c37da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_3ff2d4cea1ba4489dfb11271e49cec6dac9f505c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a6c862ce857637950c66763f166858d0893eb39c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/下载/RRDM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c6a28547ca579aa293bc5ffc6666608f28e903bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/javalong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/javalong/下载/RRDM/app/build/intermediates/pre-dexed/debug/gson-2.6.1_6a68a96efe0819130524dcd854f33e2a61907bdc.jar" />
+    </item>
+
+</items>
